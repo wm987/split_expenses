@@ -49,7 +49,6 @@ function spitExpenses(expenses: Array<ExpenseItem>): Array<PayAssignment> {
   var totalCredit = 0;
   var totalDebt = 0;
   for (let [person, value] of balance) {
-    console.log(person, ' ', value);
     if (value > 0) {
       lenders.set(person, value);
       totalCredit += value;
