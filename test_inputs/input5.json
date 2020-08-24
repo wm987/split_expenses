@@ -1,0 +1,50 @@
+[
+    {
+        "payer": "A",
+        "item_cost": 131232341.00,
+        "item_name": "i1",
+        "borrowers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "payer": "A",
+        "item_cost": 0.00,
+        "item_name": "i2",
+        "borrowers": [
+            "B",
+            "C",
+            "D"
+
+        ]
+    },
+    {
+        "payer": "A",
+        "item_cost": 150.21,
+        "item_name": "i3",
+        "borrowers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "payer": "A",
+        "item_cost": 321.1,
+        "item_name": "i4",
+        "borrowers": [
+            "B",
+            "D",
+            "C"
+        ]
+    },
+    {
+        "payer": "A",
+        "item_cost": 3,
+        "item_name": "i5",
+        "borrowers": [
+            "D"
+        ]
+    }
+]

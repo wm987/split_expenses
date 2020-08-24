@@ -1,0 +1,17 @@
+[
+    {
+        "payer": "Marshall",
+        "amount": 50.00,
+        "payee": "Lily"
+    },
+    {
+        "payer": "Robin",
+        "amount": 50.00,
+        "payee": "Barney"
+    },
+    {
+        "payer": "Ted",
+        "amount": 50.00,
+        "payee": "Barney"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "payer": "Lily",
+        "item_cost": 150.00,
+        "item_name": "dinner",
+        "borrowers": [
+            "Barney",
+            "Marshall"
+        ] 
+    },
+    {
+        "payer": "Barney",
+        "item_cost": 200.00,
+        "item_name": "Concert tickets",
+        "borrowers": [
+            "Lily",
+            "Robin",
+            "Ted"
+        ] 
+    }
+]
